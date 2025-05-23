@@ -1,4 +1,4 @@
-# React SPA Application
+# React Application
 
 ## 🔗 Link - https://majestic-maamoul-a980f9.netlify.app/
 
