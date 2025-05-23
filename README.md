@@ -36,7 +36,7 @@ This is a single-page React application built with Vite, showcasing:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/react-spa-app.git
+git clone https://github.com/swayamsid225/sample-project.git
 cd react-spa-app
 
 # Install dependencies
@@ -107,4 +107,4 @@ npm run build
 
 ## 📜 License
 
-MIT License © 2025 Your Name
+MIT License © 2025 swayam
