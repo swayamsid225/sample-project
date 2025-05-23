@@ -1,5 +1,7 @@
 # React SPA Application
 
+## 🔗 Link - https://majestic-maamoul-a980f9.netlify.app/
+
 This is a single-page React application built with Vite, showcasing:
 
 - Token-based authentication using RTK Query
@@ -55,8 +57,8 @@ Visit: `http://localhost:5173`
 Use the following test credentials:
 
 ```
-Username: kminchelle
-Password: 0lelplR
+Username: emilys
+Password: emilyspass
 ```
 
 You can change this in the login form.
